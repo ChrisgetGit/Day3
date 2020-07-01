@@ -32,7 +32,7 @@ public class A3c {
                 System.out.print("SUNDAY");
                 break;
             default:                                             //default if the variable x is above 7 (week days)
-                System.out.print("A Week only has 7 days");      //no break needed here,
+                System.out.print("A Week not more than 7 days");      //no break needed here,
         }
     }
 }
